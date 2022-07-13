@@ -1,0 +1,245 @@
+
+@media (min-width:1400px){
+    .mobile-menu{
+        display: none;
+        visibility: hidden;
+    }
+    .others-add img {
+        height: 532px;
+    }
+    .message-input a {
+        margin-left: 196px;
+    }
+    .ad-search {
+        padding: 15px 40px;
+    }
+}
+@media (min-width:1200px) and (max-width:1399px){
+    .mobile-menu{
+        display: none;
+        visibility: hidden;
+    }
+}
+    
+@media (min-width:992px) and (max-width:1199px){
+    .mobile-menu{
+        display: none;
+        visibility: hidden;
+    }
+    .social-link p {
+        margin-left: -2px;
+    }
+    .nav-btn{
+        display: none;
+        visibility: hidden;
+    }
+    .search-btn {
+        margin-left: -91px;
+    }
+    .from-inner input {
+        width: 91%;
+    }
+    .icon-content {
+        padding: 14px 0px;
+        font-weight: 600;
+    }
+    .banner-icon {
+        padding: 20px 8px;
+    }
+    .others-add img {
+        height: 455px;
+    }
+    .others-add {
+        margin-top: -110px;
+    }
+}  
+@media (min-width:768px) and (max-width:991px){
+    .mobile-menu{
+        display: block;
+    }   
+    .mobile-menu a{
+        top: 8px;
+        right: 30px;
+        color: #fff;
+        text-decoration: none; visibility: visible;
+        position: absolute
+    }
+    .language{
+        display: none;
+        visibility: hidden;
+    }
+    .headertop-list .bi{
+        display: none;
+        visibility: hidden;
+    }
+    .nav-btn{
+        display: none;
+        visibility: hidden;
+    }
+    .headermd-memu{
+        display: none;
+        visibility: hidden;
+    }
+    .search-btn {
+        margin-left: -171px;
+    }
+    .from-inner input {
+        width: 69%;
+    }
+    .others-add {
+        margin-top: 20px;
+    }
+    .quick-link {
+        margin-top: 20px;
+    }
+    .banner-icon-sec {
+        margin-bottom: 50px;
+    }
+}
+@media (min-width:576px) and (max-width:767px){ 
+    .mobile-menu{
+        display: block;
+        visibility: visible;
+    }
+    .mobile-menu a{
+        top: 8px;
+        right: 30px;
+        color: #fff;
+        text-decoration: none; visibility: visible;
+        position: absolute
+    }
+    .language{
+        display: none;
+        visibility: hidden;
+    }
+    .headertop-list .bi{
+        display: none;
+        visibility: hidden;
+    }
+    .headertop-list {
+        display: none;
+        visibility: hidden;
+    }
+    .nav-btn{
+        display: none;
+        visibility: hidden;
+    }
+    .header-btm{
+        display: none;
+        visibility: hidden;
+    }
+    .headermd-memu{
+        display: none;
+        visibility: hidden;
+    }
+    .sarch-btn-grp {
+        margin-top: 37px;
+    }
+    .search-btn {
+        margin-left: 61px;
+    }
+    .quick-link {
+        margin-top: 20px;
+    }
+    .others-add {
+        margin-top: 20px;
+    }
+    .banner-icon-sec {
+        margin-bottom: 50px;
+    }
+    .footer-logo {
+        padding-top: 0px;
+    }
+    .navigation-header {
+        padding-top: 0px;
+    }
+    .message-heading {
+        padding-top: 50px;
+    }
+    .contract-heading {
+        padding-top: 50px;
+    }
+}
+/* xsm-device */
+@media (max-width:576px){ 
+    .mobile-menu{
+        display: block;
+        visibility: visible;
+    }
+    .mobile-menu a{
+        top: 8px;
+        right: 30px;
+        color: #fff;
+        text-decoration: none; visibility: visible;
+        position: absolute
+    }
+    .language{
+        display: none;
+        visibility: hidden;
+    }
+    .headertop-list .bi{
+        display: none;
+        visibility: hidden;
+    }
+    .headertop-list {
+        display: none;
+        visibility: hidden;
+    }
+    .nav-btn{
+        display: none;
+        visibility: hidden;
+    }
+    .header-btm{
+        display: none;
+        visibility: hidden;
+    }
+    .headermd-memu{
+        display: none;
+        visibility: hidden;
+    }
+    .footer-logo {
+        padding-top: 0px;
+    }
+    .navigation-header {
+        padding-top: 0px;
+    }
+    .message-heading {
+        padding-top: 50px;
+    }
+    .contract-heading {
+        padding-top: 50px;
+    }
+    .message-input a {
+        margin-left: 117px;
+    }
+    .search-btn {
+        margin-left: 45px;
+    }
+    .sarch-btn-grp {
+        margin-top: 37px;
+    }
+    .banner-icon-sec {
+        margin-bottom: 50px;
+    }
+    .others-add {
+        margin-top: 20px;
+    }
+    .others-add {
+        margin-top: 20px;
+    }
+} 
+@media (max-width:360px){ 
+    .catagory-header {
+        display: block;
+    }
+    .ctghed-text {
+        margin-top: -28px;
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    .ctghed-menu {
+        margin-left: 0px;
+        margin-top: -18px;
+        margin-bottom: 20px;
+    }
+}
